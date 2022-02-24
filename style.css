@@ -1,13 +1,14 @@
 /* Website Name Section  */
 body{
     font-family: 'Anton', sans-serif;
-font-family: 'Baloo Bhaijaan 2', cursive;
+/* font-family: 'Baloo Bhaijaan 2', cursive; */
 }
     marquee {
-        margin: 61px -9px;
-        position: absolute;
-        color: #0216ff;
-        font-size: 21px;
+        margin: -27px 0px;
+    padding: 0px 0px;
+    position: relative;
+    color: #1dff02;
+    font-size: 21px;
     }
     div img{
         margin: -867px 4px;
@@ -40,7 +41,7 @@ font-family: 'Baloo Bhaijaan 2', cursive;
 header{
     background-color:#00eb5370; 
     height: 140px;
-    width: 100%;
+    width: 99%;
     margin: -51px 0px;
     position:absolute;
     
@@ -51,7 +52,7 @@ header{
 } */
 header h1{
     text-align: center;
-    font-size: 84px;
+    font-size: 88px;
     font-family: 'Baloo Bhaijaan 2', cursive;
     margin-top:0px;
 color:#f90b0b;
@@ -66,7 +67,7 @@ ul{
     display: flex;
     position: relative;
     background-color: black;
-    margin: 57px -2px;
+    margin: 57px 4px;
     width: 97%;
     height: 35px;
 }
@@ -148,9 +149,10 @@ font-family: 'Baloo Bhaijaan 2', cursive;
 
 .End{
     background-color: #0951f342;
-    margin-top: -170px;
-    padding-left: 35px;
-    height: 399px;
+    margin-top: -192px;
+    padding-left: 26px;
+    height: 498px;
+    padding-top: 101px;
 }
 .End h3{
     margin-top: -45px;
@@ -160,9 +162,9 @@ font-family: 'Baloo Bhaijaan 2', cursive;
 .finish{
     background-color: black;
     color: white;
-    height: 27px;
-    margin: -16px 0px;
-    font-size: 18px;
+    height: 36px;
+    margin: -10px 0px;
+    font-size: 19px;
     text-align: center;
     font-family: 'Baloo Bhaijaan 2', cursive;
 }
